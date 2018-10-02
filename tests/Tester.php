@@ -31,7 +31,7 @@ class Tester extends \PHPUnit\Framework\TestCase
     {
 
             $this->testSetup();
-            $this->assertEquals($this->test->getName(), "Cause test to fail.");
+            $this->assertEquals($this->test->getName(), "High-End Gaming Laptop");
 
     }
 
