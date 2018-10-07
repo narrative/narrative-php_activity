@@ -12,7 +12,7 @@
 	<div id="big_wrapper">
 
 
-	<header id="header">VCDEP is a tool</header>
+	<header id="header">VCDEP is a learning tool</header>
 	<!-- Displaying the navigation bar -->
 	<nav id="navigation">
 		<ul>Home</ul>
